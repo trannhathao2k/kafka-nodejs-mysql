@@ -1,0 +1,3 @@
+/node_modules
+/src/services/invoice/node_modules
+/src/services/customer/node_modules
